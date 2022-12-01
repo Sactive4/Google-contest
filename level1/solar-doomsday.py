@@ -1,5 +1,4 @@
-
-def solution(area: int):
+def solution(area):
     squares_list = []
     res_list = []
     cur_area = area
